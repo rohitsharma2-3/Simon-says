@@ -41,7 +41,7 @@ Simon Says is a classic memory game where the player must replicate an ever-grow
    ```bash
     cd simon-says-react
       
-3. cd simon-says-react
+3. Install dependencies
    ```bash
     npm install
 
